@@ -45,7 +45,7 @@
     "webpack-cli": "^3.3.5"
   },
   "dependencies": {
-    "lodash": "^4.17.13"
+    "lodash": "^4.17.21"
   },
   "homepage": "https://github.com/simPod/grafana-json-datasource#readme"
 }
